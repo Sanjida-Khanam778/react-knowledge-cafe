@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "./assets/images/1.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "Emma Parker",
+    "author_img": "./assets/images/boy1.png",
+    "posted_date": "September 24 (14 days ago)",
+    "reading_time": 8,
+    "hashtags": ["AI", "Innovation"]
+  },
+  {
+    "id": 2,
+    "cover": "./assets/images/2.png",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "Ava Johnson",
+    "author_img": "./assets/images/boy2.png",
+    "posted_date": "September 8 (30 days ago)",
+    "reading_time": 5,
+    "hashtags": ["Travel", "Adventure"]
+  },
+  {
+    "id": 3,
+    "cover": "./assets/images/3.png",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "Michael Lee",
+    "author_img": "./assets/images/girl1.jpg",
+    "posted_date": "August 25 (44 days ago)",
+    "reading_time": 7,
+    "hashtags": ["EVs", "Technology"]
+  },
+  {
+    "id": 4,
+    "cover": "./assets/images/4.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "Sophia White",
+    "author_img": "./assets/images/girl2.jpg",
+    "posted_date": "October 5 (3 days ago)",
+    "reading_time": 10,
+    "hashtags": ["Mindfulness", "Wellness"]
+  }
+]
